@@ -1,4 +1,4 @@
-== Theme Name: MoGo – Free One Page Html5 Portfolio Page Template
+== Theme Name: Bangoes - One Page Portfolio Template
 
 == Copyright (c) 2016 BootstrapThemes.co
 
@@ -8,8 +8,8 @@
 Html Created by: http://bootstrapthemes.co
 
 
+Psd Created by: https://www.behance.net/gallery/19372233/Bangoes-One-Page-Portfolio-FREE-PSD-Template
 
-Psd Created by: --Alexandr Karsakov-- https://www.behance.net/gallery/34430587/MoGo-FREE-One-Page-PSD-Template
 
 
 Rights: 
