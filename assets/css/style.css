@@ -636,7 +636,7 @@ input:-ms-input-placeholder {
 .user_seperator{
     position: absolute;
     left: 45%;
-    top:-140px;
+    top:-198px;
     z-index: 99;
 }
 .user_seperator a i{
