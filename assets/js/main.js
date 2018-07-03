@@ -205,4 +205,9 @@ jQuery(document).ready(function ($) {
     });	
 
     //End
+
+    $("#formid").submit(function() {
+        $("#sentMessage").html("Message Sent!");
+    })
+
 });
