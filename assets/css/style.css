@@ -779,7 +779,8 @@ blockquote {
 /* Cool Autumn Section */
 
 .coolautumn{
-	background:url(../images/coolautumn.jpg) no-repeat top center;
+    /* background:url(../images/coolautumn.jpg) no-repeat top center; */
+    background:url("../images/jet-system.jpg") no-repeat top center;
 	background-size:cover;
 }
 .coolautumn_overlay{
