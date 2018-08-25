@@ -802,7 +802,8 @@ blockquote {
 /* Driving Home Section */
 
 .drivinghome{
-	background:url(../images/drivingbg.jpg) no-repeat top center;
+    /* background:url(../images/drivingbg.jpg) no-repeat top center; */
+    background:url("../images/calendar.png") no-repeat top center;
 	background-size:cover;
 }
 .drivinghome_overlay{
