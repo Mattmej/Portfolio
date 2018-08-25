@@ -59,22 +59,22 @@
     
 } */
 
-a:link
+p a:link
 {
    color: #70c92f;
    text-decoration: none;
 }
-a:visited
+p a:visited
 {
    color: #70c92f;
    text-decoration: none;
 }
-a:hover
+p a:hover
 {
    color: #55b90e8f;
    text-decoration: none;
 }
-a:active
+p a:active
 {
    color: #70c92f;
    text-decoration: none;
