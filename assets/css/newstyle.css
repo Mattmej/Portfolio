@@ -46,3 +46,36 @@
 .space {
     margin-bottom: 20px;
 }
+
+/* .color-green1 {
+    color: #70c92f;
+}
+
+.color-green2 {
+    color: #56b90e;
+}
+
+.link-green1 {
+    
+} */
+
+a:link
+{
+   color: #70c92f;
+   text-decoration: none;
+}
+a:visited
+{
+   color: #70c92f;
+   text-decoration: none;
+}
+a:hover
+{
+   color: #55b90e8f;
+   text-decoration: none;
+}
+a:active
+{
+   color: #70c92f;
+   text-decoration: none;
+}
