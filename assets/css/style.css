@@ -878,7 +878,8 @@ header.head_three{
 	line-height: 45px;
     height: 45px;
 	font-size:14px;
-	font-family: 'open_sans';
+    /* font-family: 'open_sans'; */
+    font-family: 'Montserrat';
 	font-weight:600;
 }
 
