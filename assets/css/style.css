@@ -16,7 +16,8 @@ body {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    font-family: 'open_sanslight';
+    /* font-family: 'open_sanslight'; */
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
 
@@ -618,7 +619,9 @@ input:-ms-input-placeholder {
 	font-size:60px;
 	color:#70c92f;
 	text-transform:uppercase;
-	font-family: 'open_sanslight';
+    /* font-family: 'open_sanslight'; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
 	line-height:4rem;
 }
 .main_home_content p{
@@ -773,7 +776,9 @@ blockquote {
 .date{
 	color:#000000;
 	font-size:12px;
-	font-family: 'open_sansbold';
+    /* font-family: 'open_sansbold'; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
 
 /* Cool Autumn Section */
@@ -837,8 +842,10 @@ header h3{
     display: inline-block;
     text-transform: uppercase;
     font-size: 1.8rem;
-    font-family: 'open_sanssemibold';
-    font-weight: 300;
+    /* font-family: 'open_sanssemibold'; */
+    font-family: 'Montserrat', sans-serif;
+    /* font-weight: 300; */
+    font-weight: 600;       /* Montserrat semi-bold */
 }
 header p{
 color: #333333;
@@ -846,7 +853,8 @@ color: #333333;
     display: inline-block;
     float: right;
 	font-size:36px;
-	font-family: 'open_sansregular';
+    /* font-family: 'open_sansregular'; */
+    font-family: 'Montserrat', sans-serif;
 } 
 
 header p span{
@@ -879,7 +887,7 @@ header.head_three{
     height: 45px;
 	font-size:14px;
     /* font-family: 'open_sans'; */
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
 	font-weight:600;
 }
 
@@ -1041,11 +1049,15 @@ footer.singup{
     font-size: 20px;
     line-height: 1.6rem;
 	color:#222222;
-	font-family: 'open_sanssemibold';
+    /* font-family: 'open_sanssemibold'; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 .single_blogs p{
 	font-size:14px;	
-	font-family: 'open_sanssemibold';
+    /* font-family: 'open_sanssemibold'; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 
@@ -1181,7 +1193,9 @@ a.s_f_8:hover{
 }
 .footer p a{
 	color:#70c92f;
-	font-family: 'open_sansbold';
+    /* font-family: 'open_sansbold'; */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
 .footer p i{
 	color:red;
