@@ -1,7 +1,9 @@
 .img-circler {
     /* position: relative; */
-    width: 130px;
-    height: 130px;
+    /* width: 130px; */
+    width: 180px;
+    /* height: 130px; */
+    height: 250px;
     overflow: hidden;
     border-radius: 50%;
     /* background-image: url("./assets/images/matt.jpg") */
@@ -10,7 +12,8 @@
     height: 200px; */
     background-image: url('../images/matt.jpg');
     /* background-size: cover; */
-    background-size: 130px 170px;
+    /* background-size: 130px 170px; */
+    background-size: 180px 250px;
     /* background-size: contain; */
     /* background-size: 50%; */
     /* background-position: center; */
