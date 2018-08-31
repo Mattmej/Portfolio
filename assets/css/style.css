@@ -667,8 +667,14 @@ input:-ms-input-placeholder {
 .about_overlay{
     background: rgba(255, 255, 255, 0.50);
     width: 100%;
-    padding: 130px 100px 321px 100px;
-	
+    /* padding: 130px 100px 321px 100px; */
+    padding: 297px 100px 321px 100px;
+}
+
+@media (max-width: 480px) {
+    .about_overlay {
+        padding: 420px 100px 321px 100px;
+    }
 }
 
 .head_title h2{
