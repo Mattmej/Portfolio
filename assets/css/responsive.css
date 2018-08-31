@@ -32,9 +32,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 	section:nth-child(7){
     margin:-250px -98px 120px -98px;
 	}
-	/* .about_overlay {
-		padding: 130px 100px 200px 100px;
-	} */
+	.about_overlay {
+        /* padding: 130px 100px 200px 100px; */
+        /* padding: 36% 100px 200px 100px; */
+        /* padding: 36% 0% 48% 0% */
+	}
 	.tinyforest_overlay, 
 	.coolautumn_overlay, 
 	.drivinghome_overlay {

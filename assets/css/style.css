@@ -668,41 +668,9 @@ input:-ms-input-placeholder {
     background: rgba(255, 255, 255, 0.50);
     width: 100%;
     /* padding: 130px 100px 321px 100px; */
-    /* padding: 297px 100px 321px 100px; */
-}
+    padding: 36% 0% 300px 0%
 
-
-/* I made these media queries to override the ones in "responsive.css" because the addition of my portrait didn't make 
-        those queries work well. */
-
-/* @media screen and (max-width: 457px) {
-    .about_overlay {
-        padding: 400px 100px 210px 100px;
-    }
-} */
-
-@media (max-width: 457px) {
-    .about_overlay {
-        padding: 400px 100px 210px 100px;
-    }
-}
-
-@media (max-width: 480px) {
-    .about_overlay {
-        padding: 387px 100px 210px 100px;
-    }
-}
-
-@media (min-width: 480px) {
-    .about_overlay {
-        padding: 420px 100px 321px 100px;
-    }
-}
-
-@media screen and (min-width: 480px) {
-    .about_overlay {
-        padding: 384px 100px 210px 100px;
-    }
+	
 }
 
 .head_title h2{
